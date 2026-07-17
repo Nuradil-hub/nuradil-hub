@@ -1,6 +1,97 @@
-## Hi there 👋
-# 💫 About Me:
-I'm future programmist<br>I interested electronica<br>I hope to cybersecurity
+<h1 align="center">Hi 👋, I'm Nuradil</h1>
+
+<h3 align="center">
+Information Technology Student | Future AI & Machine Learning Engineer
+</h3>
+
+---
+
+## 🚀 About Me
+
+🎓 Information Technology Student (KBTU)
+
+💻 Passionate about Python, AI, Machine Learning, and Software Development.
+
+📚 Currently learning:
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
+- Linux
+- SQL
+
+🎯 Goal:
+Build AI technologies that improve millions of people's lives.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- Python
+- HTML
+- CSS
+- SQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Linux
+- Flask
+
+---
+
+## 📈 Current Focus
+
+✔ Python Mastery
+
+✔ Algorithms & Problem Solving
+
+✔ AI / Machine Learning
+
+✔ Building Real Projects
+
+✔ Open Source
+
+---
+
+## 📂 Featured Projects
+
+🔹 Python Practice
+
+🔹 Telegram Bot
+
+🔹 Expense Tracker
+
+🔹 AI Assistant
+
+🔹 Portfolio Website
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌎 Connect with Me
+
+GitHub:
+https://github.com/YOUR_USERNAME
+
+Email:
+your@email.com
+
+---
+
+⭐ Thanks for visiting my profile!
 
 
 ## 🌐 Socials:
